@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Conda
+/env/
+/venv/
+/miniconda3/
+*.conda
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
